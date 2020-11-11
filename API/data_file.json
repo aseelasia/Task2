@@ -1,0 +1,84 @@
+{
+ "users": [
+  {
+   "userID": 1,
+   "userName": "asia",
+   "password": 1230,
+   "userType": 0,
+   "status": 1,
+   "email": "1160@hotmail.com"
+  },
+  {
+   "userID": 2,
+   "userName": "aseel",
+   "password": 1231,
+   "userType": 1,
+   "status": 1,
+   "email": "1161@hotmail.com"
+  },
+  {
+   "userID": 3,
+   "userName": "hadeel",
+   "password": 1232,
+   "userType": 1,
+   "status": 1,
+   "email": "1162@hotmail.com"
+  },
+  {
+   "userID": 4,
+   "userName": "yazan",
+   "password": 1233,
+   "userType": 1,
+   "status": 1,
+   "email": "1163@hotmail.com"
+  },
+  {
+   "userID": 5,
+   "userName": "loay",
+   "password": 1234,
+   "userType": 1,
+   "status": 1,
+   "email": "1164@hotmail.com"
+  },
+  {
+   "userID": 6,
+   "userName": "rami",
+   "password": 1235,
+   "userType": 1,
+   "status": 1,
+   "email": "1165@hotmail.com"
+  },
+  {
+   "userID": 7,
+   "userName": "walaa",
+   "password": 1236,
+   "userType": 1,
+   "status": 1,
+   "email": "1166@hotmail.com"
+  },
+  {
+   "userID": 8,
+   "userName": "ola",
+   "password": 1237,
+   "userType": 1,
+   "status": 1,
+   "email": "1167@hotmail.com"
+  },
+  {
+   "userID": 9,
+   "userName": "abeer",
+   "password": 1238,
+   "userType": 1,
+   "status": 1,
+   "email": "1168@hotmail.com"
+  },
+  {
+   "userID": 10,
+   "userName": "bassam",
+   "password": 1239,
+   "userType": 1,
+   "status": 1,
+   "email": "1169@hotmail.com"
+  }
+ ]
+}
